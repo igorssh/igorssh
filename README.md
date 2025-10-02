@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @igorssh
-- 👀 I’m interested in DevOps practices, CI/CD, Docker, K8s
+- 👀 I’m interested in DevOps practices, CI/CD, Docker, K8s, LLM
 - 💞️ I’m looking to collaborate on automated deployments, CI/CD
 - 📫 You can reach me by igors.shevchuk@gmail.com
 
